@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+fresco.db
+uploads/
+.pytest_cache/

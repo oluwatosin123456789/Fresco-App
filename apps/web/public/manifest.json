@@ -1,0 +1,12 @@
+{
+  "name": "Fresco — Freshness Intelligence",
+  "short_name": "Fresco",
+  "description": "See freshness before you spend it.",
+  "start_url": "/scan",
+  "display": "standalone",
+  "background_color": "#E4E2D8",
+  "theme_color": "#0F8A4F",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
